@@ -2,6 +2,8 @@ langchain
 langchain-community
 langchain-core
 langchain-groq
+langchain-chroma
+langchain-text-splitters
 groq
 chromadb
 faiss-cpu
@@ -21,3 +23,4 @@ streamlit
 langchain-huggingface
 langchain-google-genai
 torchvision
+chromadb
